@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tioultamb.github.io/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/app/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/assets/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/css/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/includes/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/item/tioultamb.tioultamb
+Sitemap: https://tioultamb.github.io/src/tioultamb.tioultamb
